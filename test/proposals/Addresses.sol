@@ -294,6 +294,11 @@ contract Addresses is Test, ChainIds {
             84531,
             0xb65604ae9b9250c1973441A03f9Ec7ECF09aaC7e
         );
+        _addAddress(
+            "WORMHOLE_WELL",
+            84531,
+            0x6295749d818E3a2caEe60b274700593ffBBdE1d7
+        );
 
         /// -----------------------------------------------
 
